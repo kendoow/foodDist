@@ -1,2 +1,3 @@
-# JS в папке Modules 6 нужных модулей 
+# JS 
+D папке Modules 6 нужных модулей |
 Важные: Slider, timer, calc
